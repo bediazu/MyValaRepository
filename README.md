@@ -1,6 +1,7 @@
 # My Vala Repository to Learn and Test
 - brunodiazu
 
+![License](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/250px-GPLv3_Logo.svg.png)
 
 #  :paperclip: Description
 I'll use this repository to create new pre-template apps, learn of Vala, share my code with myself and other person (Who knows?)
